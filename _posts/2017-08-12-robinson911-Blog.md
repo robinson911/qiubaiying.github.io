@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      robinson911 Blog
-subtitle:   RVM 常用的命令整理
-date:       2017-04-28
+subtitle:   测试
+date:       2017-08-12
 author:     BY
 header-img: img/post-bg-hacker.jpg
 catalog: true
